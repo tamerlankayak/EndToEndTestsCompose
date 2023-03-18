@@ -9,7 +9,7 @@ import com.example.endtoendtestscompose.ui.theme.EndToEndTestsComposeTheme
 import org.junit.Before
 import org.junit.Rule
 import org.junit.Test
-
+//here is starting test
 class EndToEndAppTest {
 
     @get:Rule
